@@ -1,0 +1,871 @@
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\RestApi.exe
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\RestApi.deps.json
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\RestApi.runtimeconfig.json
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfo.cs
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RestApi.props
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RestApi.props
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\refint\RestApi.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\RestApi.genruntimeconfig.cache
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\obj\Debug\net7.0\ref\RestApi.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\RestApi.exe
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\RestApi.deps.json
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\RestApi.runtimeconfig.json
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfo.cs
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RestApi.props
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RestApi.props
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\refint\RestApi.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\RestApi.genruntimeconfig.cache
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\obj\Debug\net7.0\ref\RestApi.dll
+C:\Users\Patrycja\Desktop\testy\RestApi\RestApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Patrycja\Desktop\projekt\projekt ZTO\RestApi\RestApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\RestApi.exe
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\RestApi.deps.json
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\RestApi.runtimeconfig.json
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfo.cs
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RestApi.props
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RestApi.props
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\refint\RestApi.dll
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\RestApi.genruntimeconfig.cache
+C:\Users\Patrycja\Desktop\nowey clinet rejestracja\RestApi\RestApi\obj\Debug\net7.0\ref\RestApi.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfo.cs
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\refint\RestApi.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\RestApi.exe
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\RestApi.deps.json
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\RestApi.runtimeconfig.json
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RestApi.props
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RestApi.props
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\RestApi.genruntimeconfig.cache
+C:\Users\Patrycja\Desktop\clinet rest logowanie\RestApi\RestApi\obj\Debug\net7.0\ref\RestApi.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\RestApi.exe
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\RestApi.deps.json
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\RestApi.runtimeconfig.json
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfo.cs
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RestApi.props
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RestApi.props
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\refint\RestApi.dll
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\RestApi.genruntimeconfig.cache
+C:\Users\Patrycja\Desktop\generowanie tokenu\RestApi\RestApi\obj\Debug\net7.0\ref\RestApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\RestApi.exe
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\RestApi.deps.json
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\RestApi.runtimeconfig.json
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfo.cs
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RestApi.props
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RestApi.props
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\refint\RestApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\RestApi.genruntimeconfig.cache
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\obj\Debug\net7.0\ref\RestApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Patrycja\Desktop\autoryzacja rest\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\RestApi.exe
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\RestApi.deps.json
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\RestApi.runtimeconfig.json
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfo.cs
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RestApi.props
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RestApi.props
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\refint\RestApi.dll
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\RestApi.genruntimeconfig.cache
+C:\Users\Patrycja\Desktop\autoryzacja\RestApi\RestApi\obj\Debug\net7.0\ref\RestApi.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\RestApi.exe
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\RestApi.deps.json
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\RestApi.runtimeconfig.json
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfo.cs
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RestApi.props
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RestApi.props
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\refint\RestApi.dll
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\RestApi.genruntimeconfig.cache
+C:\Users\Patrycja\Desktop\projektzaliczeniowy21.01\RestApi\RestApi\obj\Debug\net7.0\ref\RestApi.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\RestApi.exe
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\RestApi.deps.json
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\RestApi.runtimeconfig.json
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfo.cs
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RestApi.props
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RestApi.props
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\refint\RestApi.dll
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\RestApi.genruntimeconfig.cache
+C:\Users\Patrycja\Desktop\start .net\RestApi\RestApi\obj\Debug\net7.0\ref\RestApi.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\RestApi.exe
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\RestApi.deps.json
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\RestApi.runtimeconfig.json
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfo.cs
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RestApi.props
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RestApi.props
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\refint\RestApi.dll
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\RestApi.genruntimeconfig.cache
+C:\Users\Patrycja\Desktop\start .net — kopia (2)\RestApi\RestApi\obj\Debug\net7.0\ref\RestApi.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\RestApi.exe
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\RestApi.deps.json
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\RestApi.runtimeconfig.json
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Scrutor.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.AssemblyReference.cache
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\RestApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfoInputs.cache
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\RestApi.AssemblyInfo.cs
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\RestApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.RestApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.build.RestApi.props
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RestApi.props
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RestApi.props
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\scopedcss\bundle\RestApi.styles.css
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\RestApi.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\RestApi.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\refint\RestApi.dll
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\RestApi.pdb
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\RestApi.genruntimeconfig.cache
+C:\Users\Patrycja\Desktop\.net - aktualne — kopiadwie tebele\RestApi\RestApi\obj\Debug\net7.0\ref\RestApi.dll

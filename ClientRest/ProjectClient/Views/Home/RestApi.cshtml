@@ -1,0 +1,95 @@
+﻿@model IEnumerable<ProjectClient.Models.BookModel>
+
+@{
+    ViewData["Title"] = "RestApi";
+}
+
+<h1>RestApi</h1>
+@if (TempData["AlertStatus"] != null && TempData["AlertStatus"] == "Success")
+{
+    <div id="alertMessage" class="alert alert-success">
+        <strong>Success !</strong> @TempData["AlertMessage"]
+    </div>
+
+    <script>
+        setTimeout(function () {
+            document.getElementById('alertMessage').style.display = 'none';
+        }, 3000); // 3000 milisekundy = 3 sekundy
+    </script>
+
+}
+else if (TempData["AlertStatus"] != null && TempData["AlertStatus"] == "Wrong")
+{
+    <div id="alertMessage" class="alert alert-warning">
+        <strong>Wrong !</strong> @TempData["AlertMessage"]
+    </div>
+
+    <script>
+        setTimeout(function () {
+            document.getElementById('alertMessage').style.display = 'none';
+        }, 3000); // 3000 milisekundy = 3 sekundy
+    </script>
+}
+
+
+<p>
+    <a asp-action="Create" class="btn btn-primary mr-2">Create New</a>
+    <a asp-action="Logout" class="btn btn-secondary">Logout</a>
+</p>
+<a asp-action="RestApi">reset list</a>
+
+<form asp-action="SearchBook" method="get">
+    <div>
+        <label for="SearchString">Find by title:</label>
+        <input type="text" name="SearchString" />
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </div>
+</form>
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                BookId
+            </th>
+            <th>
+                <a asp-action="SortBooks" asp-route-sortOrder="Title">Title</a>
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                <a asp-action="SortBooks" asp-route-sortOrder="Author">Author</a>
+
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BookId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Author)
+                </td>
+                <td>
+                    <div class="btn-group" role="group">
+                        <a asp-action="Edit" asp-route-id="@item.BookId" class="btn btn-info">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.BookId" class="btn btn-success">Details</a>
+                        <a asp-action="DeleteShow" asp-route-id="@item.BookId" class="btn btn-danger">Delete</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
